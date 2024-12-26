@@ -23,3 +23,4 @@ Try installing Kali on a virtual machine like VirtualBox or VMware to install Ka
 Download Kali for Virtual Machines
 -  https://www.kali.org/get-kali/#kali-platforms
 - https://www.kali.org/get-kali/#kali-virtual-machines
+- After it has finished downloading, from downloads folder, right click on the file -> open with VirtualBox
