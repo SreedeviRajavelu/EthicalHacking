@@ -11,7 +11,8 @@
   - `Nmap`: scan a network for open ports
   - `Metasploit`: exploit a vulnerability
   - `Wireshark`: in-depth network traffic analysis
-  - `Wifite` & `Airgeddon`: Wi-Fi security. Wifite automate cracking of Wi-Fi passwords. Airgeddon provides a versatile environment for assessing wireless security.
+  - `Wifite`: automate cracking of Wi-Fi passwords  
+  - `Airgeddon`: provides a versatile environment for assessing wireless security
   
 Reference:
 - https://www.howtogeek.com/what-is-kali-linux-and-should-you-use it/#:~:text=Kali%20Linux%2C%20previously%20known%20as%20BackTrack%20Linux%2C%20is,for%20computer%20forensics%2C%20reverse%20engineering%2C%20and%20vulnerability%20detection.
