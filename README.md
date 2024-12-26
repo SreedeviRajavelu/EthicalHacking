@@ -19,3 +19,6 @@ Reference:
 
 Getting started with Kali:
 Try installing Kali on a virtual machine like VirtualBox or VMware to install Kali in a controlled environment where you can experiment without affecting your main operating system.
+
+2. Download Kali for Virtual Machines
+-  https://www.kali.org/get-kali/#kali-platforms
