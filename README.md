@@ -24,3 +24,10 @@ Download Kali for Virtual Machines
 -  https://www.kali.org/get-kali/#kali-platforms
 - https://www.kali.org/get-kali/#kali-virtual-machines
 - After it has finished downloading, from downloads folder, right click on the file -> open with VirtualBox
+
+  To set up Kali Linux on Virtual Box, follow same steps as mentioned in seed lab tutorial
+  - https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
+ 
+  To create shared folder, follow steps in tutorial below
+  - https://www.livelaptopspec.com/how-mount-shared-folder-in-kali-linux/
+  - https://youtu.be/hIzFvt3nyuw?feature=shared
