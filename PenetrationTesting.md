@@ -11,8 +11,11 @@ Having identified which hosts are responding, we can probe the TCP and UDP ports
 2. Port scan of active hosts (those that were reported in (1))
 - Check the target on 10.0.2.32 for TCP ports using `-PS` option
      - nmap -PS 10.0.2.32
-     - `-P0` option is useful to scan a live system as it skips the ping check of the host, live system does not respond to ICMP ping
+     - `-Pn` option is useful to scan a live system as it skips the ping check of the host, live system does not respond to ICMP ping
+     
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/dc2b11b5-76d9-4126-a168-e4a3aa894073" />
+- nmap -PS -Pn 10.0.2.38
+
 
 - Check for open UDP ports
      - sudo nmap -sU 10.0.2.32
