@@ -18,7 +18,8 @@ Having identified which hosts are responding, we can probe the TCP and UDP ports
 
 
 - Check for open UDP ports
-     - sudo nmap -sU 10.0.2.32
+     - sudo nmap -sU 10.0.2.32 (for linux)
+     -  nmap -sU 10.0.2.32 (for windows)
  
 Additional Info on Verfiying Checksums on Windows after downloading Nmap:
 Navigate to the directory of the downloaded file before extracting and run these commands, verify if they match the provided checksums
