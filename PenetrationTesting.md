@@ -27,4 +27,8 @@ Navigate to the directory of the downloaded file before extracting and run these
 - CertUtil -hashfile nmap-7.95-setup.exe SHA256
 <img width="684" alt="image" src="https://github.com/user-attachments/assets/00cb7f29-f511-4439-8622-f7043059b417" />
 
-# Ncat - Read & Write data across network connections using TCP or UDP protocols
+# Netcat - Read & Write data across network connections using TCP or UDP protocols
+
+- Set up a netcat listener using `l` option and port number using `p`
+- For Windows:
+     - ncat -lp 4545 
